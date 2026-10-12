@@ -24,7 +24,7 @@ The main goal of this repository is not just to build projects, but to improve m
 
 | # | Project | Concepts Practiced | Status |
 |---|---|---|---|
-| 01 | Counter Dashboard | useState, Events, Conditional Rendering | 🔄 |
+| 01 | Counter Dashboard | useState, Events, Conditional Rendering | ✅ |
 | 02 | Todo Manager | CRUD, Arrays, Props, State | 🔄 |
 | 03 | Expense Tracker | Forms, State, Calculations, LocalStorage | 🔄 |
 | 04 | Notes App | CRUD, LocalStorage, Dynamic Routes | 🔄 |
@@ -253,10 +253,10 @@ Real-World Frontend Development
 
 ## 📊 Progress
 
-**Projects Completed:** 0 / 11
+**Projects Completed:** 1 / 11
 
 ```text
-[□□□□□□□□□□□] 0%
+[□□□□□□□□□□] 9.09%
 ```
 
 I will update this section as projects are completed.
